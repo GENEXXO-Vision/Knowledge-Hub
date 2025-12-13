@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "GENEXXO Vision Knowledge Hub - The Organizing Layer for the Internet"
+description: "The GENEXXO Vision - The Organizing Layer for the Internet"
 permalink: /
 ---
 
