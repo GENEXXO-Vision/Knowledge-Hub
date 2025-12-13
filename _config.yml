@@ -1,32 +1,70 @@
-title: GENEXXO Vision Knowledge Centre
+# GENEXXO Vision Knowledge Hub - Jekyll Configuration
+
+# Site settings
+title: GENEXXO Vision Knowledge Hub
 description: The Organizing Layer for the Internet - Complete documentation, strategic framework, and domain infrastructure
 url: "https://genexxo-vision.github.io"
 baseurl: "/Knowledge-Hub"
 
+# Theme
+theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
+# Logo and branding
+logo: ""
+
+# Color scheme (supports dark mode)
 color_scheme: genexxo
 
+# Search
 search_enabled: true
 search:
   heading_level: 2
   previews: 3
   preview_words_before: 5
   preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
 
+# Navigation
 nav_sort: case_sensitive
 nav_enabled: true
 
+# Footer content
 footer_content: "Copyright &copy; 2024 GENEXXO Vision Limited. Company No. 022622V - Isle of Man"
 
+# Social links in footer
 aux_links:
   "Website": "https://genexxovision.com"
   "LinkedIn": "https://www.linkedin.com/company/genexxovision"
   "X (Twitter)": "https://x.com/GENEXXOvision"
 
+# Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# SEO and metadata
+lang: en-GB
+author:
+  name: GENEXXO Vision Limited
+  email: info@genexxovision.com
+
+# Just-the-Docs specific settings
 heading_anchors: true
 back_to_top: true
+back_to_top_text: "Back to top"
+
+# Collections for future organization
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
