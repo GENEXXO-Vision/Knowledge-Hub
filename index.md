@@ -6,7 +6,7 @@ description: "The GENEXXO Vision - The Organizing Layer for the Internet"
 permalink: /
 ---
 
-# GENEXXO Vision Knowledge Hub
+# The GENEXXO Vision
 {: .fs-9 }
 
 The Organizing Layer for the Internet
