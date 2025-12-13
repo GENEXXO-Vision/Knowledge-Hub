@@ -15,8 +15,6 @@ The Organizing Layer for the Internet
 The central hub for in-depth documentation, guides, whitepapers, and resources on GENEXXO Vision — the "Organizing Layer for the Internet." Explore the vision behind our 10,000+ "XX" domain network, the Supernova Application, AI-native ecosystem, user journeys, operating model, and the path to a unified, gravitational digital universe.
 {: .fs-5 .fw-300 }
 
-Whether you're a developer, partner, investor, or curious explorer, this is your go-to place for everything GENEXXO: from core concepts and strategic insights to technical details and future roadmaps.
-
 ---
 
 ## Watch: The GENEXXO Vision Explained
