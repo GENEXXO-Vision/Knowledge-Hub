@@ -1,4 +1,4 @@
-# Knowledge Hub - Jekyll Configuration
+# GENEXXO Vision Knowledge Hub - Jekyll Configuration
 
 # Site settings
 title: GENEXXO Vision Knowledge Hub
@@ -25,6 +25,7 @@ search:
   tokenizer_separator: /[\s/]+/
   rel_url: true
   button: false
+  placeholder: Search Hub
 
 # Navigation
 nav_sort: case_sensitive
