@@ -2,7 +2,7 @@
 layout: default
 title: The GENEXXO Collection
 nav_order: 3
-description: "Strategic Overview of 10,000+ XX Domains - Comprehensive Linguistic Infrastructure for Digital Commerce"
+description: "GENEXXO Vision Knowledge Hub - Strategic Overview of 10,000+ XX Domains"
 ---
 
 # The GENEXXO Collection
