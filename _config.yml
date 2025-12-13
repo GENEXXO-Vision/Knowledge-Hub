@@ -2,9 +2,9 @@
 
 # Site settings
 title: Knowledge Hub
-description: The Organizing Layer for the Internet - Complete documentation, strategic framework, and domain infrastructure
-url: "https://genexxo-vision.github.io"
-baseurl: "/Knowledge-Hub"
+description: GENEXXO Vision - The Organizing Layer for the Internet
+url: "https://knowledge.genexxovision.com"
+baseurl: ""
 
 # Theme
 remote_theme: just-the-docs/just-the-docs
