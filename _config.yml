@@ -1,16 +1,13 @@
 # GENEXXO Vision Knowledge Hub - Jekyll Configuration
 
 # Site settings
-title: GENEXXO Vision Knowledge Hub
+title: Knowledge Hub
 description: The Organizing Layer for the Internet - Complete documentation, strategic framework, and domain infrastructure
 url: "https://genexxo-vision.github.io"
 baseurl: "/Knowledge-Hub"
 
 # Theme
 remote_theme: just-the-docs/just-the-docs
-
-# Logo and branding
-logo: ""
 
 # Color scheme (supports dark mode)
 color_scheme: genexxo
@@ -25,7 +22,6 @@ search:
   tokenizer_separator: /[\s/]+/
   rel_url: true
   button: false
-  placeholder: Search Hub
 
 # Navigation
 nav_sort: case_sensitive
