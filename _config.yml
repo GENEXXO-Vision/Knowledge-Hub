@@ -7,7 +7,6 @@ url: "https://genexxo-vision.github.io"
 baseurl: "/Knowledge-Hub"
 
 # Theme
-theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 
 # Logo and branding
