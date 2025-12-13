@@ -2,7 +2,7 @@
 layout: default
 title: The GENEXXO Vision
 nav_order: 2
-description: "A Supernova Application - The Organizing Layer for the Internet"
+description: "GENEXXO Vision Knowledge Hub - A Supernova Application - The Organizing Layer for the Internet"
 ---
 
 # The GENEXXO Vision
