@@ -19,6 +19,14 @@ Whether you're a developer, partner, investor, or curious explorer, this is your
 
 ---
 
+## Watch: The GENEXXO Vision Explained
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 2rem 0;">
+  <iframe class='sproutvideo-player' src='https://videos.sproutvideo.com/embed/8c9bdfb41d1ee1cf06/26ba9ef084ad1145?playerTheme=light&playerColor=2f3437' style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder='0' allowfullscreen referrerpolicy='no-referrer-when-downgrade' title='The GENEXXO Vision Explained'></iframe>
+</div>
+
+---
+
 ## Documentation
 
 ### 📄 [The GENEXXO Vision]({{ site.baseurl }}{% link vision.md %})
