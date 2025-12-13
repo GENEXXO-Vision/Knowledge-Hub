@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "GENEXXO Vision Knowledge Centre - The Organizing Layer for the Internet"
+description: "GENEXXO Vision Knowledge Hub - The Organizing Layer for the Internet"
 permalink: /
 ---
 
-# GENEXXO Vision Knowledge Centre
+# GENEXXO Vision Knowledge Hub
 {: .fs-9 }
 
 The Organizing Layer for the Internet
@@ -66,3 +66,7 @@ Incorporated in Isle of Man
 
 **Stuart Carr** - Director  
 [LinkedIn](https://www.linkedin.com/in/stuart-carr-70427a9/)
+
+### Contact Us
+
+**Email:** [info@genexxovision.com](mailto:info@genexxovision.com)
