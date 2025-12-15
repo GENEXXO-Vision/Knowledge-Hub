@@ -1,9 +1,9 @@
 ---
 layout: default
-title: The GENEXXO Collection | 10,000+ Premium XX Domain Portfolio
+title: The GENEXXO Collection
 nav_order: 3
 description: "Strategic overview of GENEXXO's 10,000+ premium XX.com domains across 45 categories. Comprehensive digital infrastructure including HEALTHXX, TECHXX, FINANCEXX, BEAUTYXX."
-keywords: "GENEXXO Collection, XX domains, branded domains, domain portfolio, HEALTHXX, TECHXX, FINANCEXX, digital infrastructure, ai framework, domain strategy"
+keywords: "GENEXXO Collection, XX domains, branded domains, ai framework, HEALTHXX, TECHXX, FINANCEXX,  ai infrastructure, domain strategy"
 ---
 
 # The GENEXXO Collection
