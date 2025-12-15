@@ -2,8 +2,8 @@
 layout: default
 title: Home
 nav_order: 1
-description: "The GENEXXO Vision - The Organizing Layer for the Internet. Complete documentation on 10,000+ XX domain collection, AI-driven digital commerce framework, and systematic domain infrastructure."
-keywords: "GENEXXO, Knowledge Hub, XX domains, digital infrastructure, AI commerce, organizing layer, supernova application"
+description: "GENEXXO's 10,000+ XX domains create the organizing layer for the Internet - digital infrastructure providing the AI framework for next-generation commerce."
+keywords: "GENEXXO, XX domains, organizing layer for the Internet, AI framework, digital infrastructure, Knowledge Hub"
 permalink: /
 ---
 
