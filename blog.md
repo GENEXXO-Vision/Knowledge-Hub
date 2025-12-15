@@ -2,8 +2,8 @@
 layout: default
 title: Blog
 nav_order: 5
-description: "GENEXXO Vision Knowledge Hub - Insights, updates, and thought leadership"
-has_children: false
+description: "Thought leadership and insights on AI-driven commerce, digital ecosystems, domain strategy, and the future of Internet organization from GENEXXO Vision founders."
+keywords: "GENEXXO blog, domain strategy, digital commerce, AI commerce, thought leadership, founder insights"
 ---
 
 # Blog
