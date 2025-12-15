@@ -1,9 +1,9 @@
 ---
 layout: default
-title: The GENEXXO Vision | Supernova Application & AI Commerce Framework
+title: The GENEXXO Vision
 nav_order: 2
 description: "How GENEXXO's 10,000+ XX domains create the organizing layer for AI-driven commerce. Complete strategic framework, gateway architecture, and digital ecosystem vision for corporate acquisition."
-keywords: "GENEXXO Vision, supernova application, XX domains, AI commerce, organizing layer, digital ecosystem, gateway architecture, framework control, corporate acquisition"
+keywords: "GENEXXO Vision, supernova application, XX domains, AI commerce, organizing layer, digital ecosystem, ai architecture, ai framework, corporate acquisition"
 ---
 
 # The GENEXXO Vision
