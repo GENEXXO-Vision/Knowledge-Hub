@@ -27,7 +27,7 @@ Official announcements and press releases from GENEXXO Vision Limited
 
 For press inquiries, interviews, or additional information:
 
-**Email:** [press@genexxovision.com](mailto:press@genexxovision.com)
+**Email:** [info@genexxo.com](mailto:info@genexxo.com)
 
 **GENEXXO Vision Limited**  
 Company No. 022622V  
