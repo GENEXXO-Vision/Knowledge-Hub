@@ -68,4 +68,4 @@ Incorporated in Isle of Man
 
 ### Contact Us
 
-**Email:** [info@genexxovision.com](mailto:info@genexxovision.com)
+**Email:** [info@genexxo.com](mailto:info@genexxo.com)
