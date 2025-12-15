@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home | Knowledge Hub
+title: Home | GENEXXO Knowledge Hub
 nav_order: 1
 description: "The GENEXXO Vision - The Organizing Layer for the Internet. Complete documentation on 10,000+ XX domain collection, AI-driven digital commerce framework, and systematic domain infrastructure."
 keywords: "GENEXXO, Knowledge Hub, XX domains, digital infrastructure, AI commerce, organizing layer, supernova application"
