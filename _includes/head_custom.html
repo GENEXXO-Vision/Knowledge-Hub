@@ -1,0 +1,28 @@
+<!-- Canonical URL for SEO and duplicate content resolution -->
+{% if page.url %}
+<link rel="canonical" href="https://knowledge.genexxovision.com{{ page.url | remove: 'index.html' }}" />
+{% else %}
+<link rel="canonical" href="https://knowledge.genexxovision.com/" />
+{% endif %}
+
+<!-- Open Graph tags for AI crawlers and social sharing -->
+<meta property="og:url" content="https://knowledge.genexxovision.com{{ page.url | remove: 'index.html' }}" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}GENEXXO Knowledge Hub" />
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}The Organizing Layer for the Internet - 10,000+ premium XX domains{% endif %}" />
+
+<!-- Structured data for AI understanding -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "GENEXXO Vision Limited",
+  "url": "https://genexxovision.com",
+  "description": "The Organizing Layer for the Internet - 10,000+ premium XX domains designed as strategic infrastructure for AI-driven commerce",
+  "sameAs": [
+    "https://knowledge.genexxovision.com",
+    "https://www.linkedin.com/company/genexxovision",
+    "https://x.com/GENEXXOvision"
+  ]
+}
+</script>
