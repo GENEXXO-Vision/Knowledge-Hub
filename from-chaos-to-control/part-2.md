@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Part 2: The Vision"
-nav_order: 2
 permalink: /from-chaos-to-control/part-2/
 ---
 
