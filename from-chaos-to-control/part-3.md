@@ -2,6 +2,7 @@
 layout: default
 title: "Part 3: The Foundation"
 permalink: /from-chaos-to-control/part-3/
+nav_exclude: true
 ---
 
 # Part 3: The Foundation
