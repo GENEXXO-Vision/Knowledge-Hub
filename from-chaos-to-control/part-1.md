@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Part 1: The Chaotic Beginning"
-nav_order: 1
 permalink: /from-chaos-to-control/part-1/
 ---
 
