@@ -2,6 +2,7 @@
 layout: default
 title: "Part 6: Technology Convergence"
 permalink: /from-chaos-to-control/part-6/
+nav_exclude: true
 ---
 
 # Part 6: Technology Convergence
