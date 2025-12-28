@@ -8,9 +8,7 @@ nav_exclude: true
 # Part 1: The Chaotic Beginning
 
 *The fragmented internet landscape*
-
 ---
-
 Nearly fourteen billion years ago, the universe detonated into existence as pure chaos—undifferentiated energy exploding in all directions with no structure, no organization, no possibility for the complex systems that would eventually give rise to galaxies, stars, and life itself. Yet from this primordial chaos, gravitational forces gradually emerged to organize scattered matter into increasingly sophisticated structures, transforming cosmic disorder into the rich, navigable universe we inhabit today.
 
 The digital universe has followed a remarkably parallel path. In the internet's explosive early expansion, websites, information, and services scattered randomly across cyberspace like cosmic matter in the primordial universe—chaotic growth in all directions with no organizing principles to guide discovery or connection.
