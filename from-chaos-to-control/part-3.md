@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Part 3: The Foundation"
-parent: From Chaos to Control
 nav_order: 3
 permalink: /from-chaos-to-control/part-3/
 ---
