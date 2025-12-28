@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Part 7: The Ultimate Destination"
-parent: From Chaos to Control
 nav_order: 7
 permalink: /from-chaos-to-control/part-7/
 ---
