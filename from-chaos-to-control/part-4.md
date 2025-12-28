@@ -2,6 +2,7 @@
 layout: default
 title: "Part 4: The Framework"
 permalink: /from-chaos-to-control/part-4/
+nav_exclude: true
 ---
 
 # Part 4: The Framework
