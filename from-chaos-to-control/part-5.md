@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Part 5: A Journey Through the Supernova"
-nav_order: 5
 permalink: /from-chaos-to-control/part-5/
 ---
 
