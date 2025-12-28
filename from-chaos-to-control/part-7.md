@@ -2,6 +2,7 @@
 layout: default
 title: "Part 7: The Ultimate Destination"
 permalink: /from-chaos-to-control/part-7/
+nav_exclude: true
 ---
 
 # Part 7: The Ultimate Destination
