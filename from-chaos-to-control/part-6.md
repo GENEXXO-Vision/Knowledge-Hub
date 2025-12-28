@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Part 6: Technology Convergence"
-parent: From Chaos to Control
 nav_order: 6
 permalink: /from-chaos-to-control/part-6/
 ---
