@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Part 4: The Framework"
-parent: From Chaos to Control
 nav_order: 4
 permalink: /from-chaos-to-control/part-4/
 ---
