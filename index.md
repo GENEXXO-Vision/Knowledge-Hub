@@ -7,16 +7,6 @@ keywords: "GENEXXO, XX domains, organizing layer for the Internet, AI framework,
 permalink: /index.html
 ---
 
-<script>
-  // Override canonical tag after page loads
-  document.addEventListener('DOMContentLoaded', function() {
-    var canonical = document.querySelector('link[rel="canonical"]');
-    if (canonical) {
-      canonical.href = 'https://knowledge.genexxovision.com/index.html';
-    }
-  });
-</script>
-
 # The GENEXXO Vision
 {: .fs-9 }
 
