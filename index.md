@@ -4,8 +4,9 @@ title: Home
 nav_order: 1
 description: "GENEXXO's 10,000+ XX domains create the organizing layer for the Internet - digital infrastructure providing the AI framework for next-generation commerce."
 keywords: "GENEXXO, XX domains, organizing layer for the Internet, AI framework, digital infrastructure, Knowledge Hub"
-permalink: /
-canonical_url: https://knowledge.genexxovision.com/index.html
+permalink: /index.html
+seo:
+  canonical_url: https://knowledge.genexxovision.com/index.html
 ---
 
 # The GENEXXO Vision
