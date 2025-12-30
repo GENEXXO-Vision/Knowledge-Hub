@@ -1,28 +1,19 @@
-<!-- Canonical URL for SEO and duplicate content resolution -->
-{% if page.url %}
-<link rel="canonical" href="https://knowledge.genexxovision.com{{ page.url | remove: 'index.html' }}" />
+<!-- Canonical URL -->
+{% if page.canonical_url %}
+  <link rel="canonical" href="{{ page.canonical_url }}" />
 {% else %}
-<link rel="canonical" href="https://knowledge.genexxovision.com/" />
+  <link rel="canonical" href="https://knowledge.genexxovision.com{{ page.url }}" />
 {% endif %}
 
-<!-- Open Graph tags for AI crawlers and social sharing -->
-<meta property="og:url" content="https://knowledge.genexxovision.com{{ page.url | remove: 'index.html' }}" />
+<!-- Open Graph tags for AI crawlers -->
+<meta property="og:url" content="{% if page.canonical_url %}{{ page.canonical_url }}{% else %}https://knowledge.genexxovision.com{{ page.url }}{% endif %}" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="{% if page.title %}{{ page.title }} | {% endif %}GENEXXO Knowledge Hub" />
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}The Organizing Layer for the Internet - 10,000+ premium XX domains{% endif %}" />
+<meta property="og:site_name" content="GENEXXO Knowledge Hub" />
+<meta property="og:title" content="{{ page.title | default: site.title }}" />
+<meta property="og:description" content="{{ page.description | default: site.description }}" />
 
-<!-- Structured data for AI understanding -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "GENEXXO Vision Limited",
-  "url": "https://genexxovision.com",
-  "description": "The Organizing Layer for the Internet - 10,000+ premium XX domains designed as strategic infrastructure for AI-driven commerce",
-  "sameAs": [
-    "https://knowledge.genexxovision.com",
-    "https://www.linkedin.com/company/genexxovision",
-    "https://x.com/GENEXXOvision"
-  ]
-}
-</script>
+<!-- Twitter Card tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@GENEXXOvision" />
+<meta name="twitter:title" content="{{ page.title | default: site.title }}" />
+<meta name="twitter:description" content="{{ page.description | default: site.description }}" />
