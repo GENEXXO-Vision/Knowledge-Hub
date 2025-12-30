@@ -41,6 +41,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Disable Jekyll SEO tag's canonical URL (we'll use our own)
+jekyll-seo-tag:
+  skip_canonical_url: true
+  
 # SEO and metadata
 lang: en-GB
 author:
