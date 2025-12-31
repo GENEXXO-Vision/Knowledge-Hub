@@ -15,7 +15,7 @@ nav_exclude: true
 
 From the transformational moment we've reached, a cosmic solution emerges. The organizing revolution the digital universe desperately needs isn't theoretical—it stands ready to ignite. While the world's most powerful technology companies chase AI infrastructure supremacy, a fundamentally different approach has emerged that works with the natural forces organizing complex systems throughout history.
 
-For years, the digital world has followed the same playbook: pull everything inward. Super apps compress multiple services into single platforms, everything stores contain all commerce within walled gardens, and social networks absorb every form of human connection. This is the black hole model—compressing maximum functionality into centralized control.
+For years, the digital world has followed the same playbook: pull everything inward. Super apps compress multiple services into single platforms, everything-stores contain all commerce within walled gardens, and social networks absorb every form of human connection. This is the black hole model—compressing maximum functionality into centralized control.
 
 But what if there's a completely different approach? What if, instead of fighting the internet's natural expansion and diversity, we worked with it? What if the solution isn't compression but expansion—not centralization but organized distribution through a living organizational layer that spans the entire digital universe?
 
