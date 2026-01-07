@@ -28,9 +28,16 @@ $purple-400: #8c7ae6;
 $purple-500: #667eea;
 $purple-600: #764ba2;
 $purple-700: #5a3a7d;
-// Hide duplicate search hint text - stronger selectors
-.search-input-wrap + label,
-.search-input label.search-label,
-.site-header .search label {
-  display: none !important;
+
+// Hide duplicate search label (the sr-only span is showing when it shouldn't)
+label.search-label span.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
 }
