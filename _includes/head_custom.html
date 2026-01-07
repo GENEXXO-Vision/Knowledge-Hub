@@ -22,3 +22,18 @@
 <meta name="twitter:site" content="@GENEXXOvision" />
 <meta name="twitter:title" content="{{ page.title | default: site.title }}" />
 <meta property="twitter:description" content="{{ page.description | default: site.description }}" />
+<!-- Remove duplicate search label text -->
+<script>
+(function() {
+  // Wait for page to load
+  window.addEventListener('DOMContentLoaded', function() {
+    // Find and hide the duplicate search label
+    var searchLabels = document.querySelectorAll('.search-input-wrap + label, .search label');
+    searchLabels.forEach(function(label) {
+      if (label.textContent.includes('Search GENEXXO Knowledge Hub')) {
+        label.style.display = 'none';
+      }
+    });
+  });
+})();
+</script>
