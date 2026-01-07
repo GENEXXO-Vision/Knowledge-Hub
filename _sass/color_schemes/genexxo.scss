@@ -28,3 +28,7 @@ $purple-400: #8c7ae6;
 $purple-500: #667eea;
 $purple-600: #764ba2;
 $purple-700: #5a3a7d;
+// Hide duplicate search hint text
+.search-input-wrap .search-label {
+  display: none;
+}
