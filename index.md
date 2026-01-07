@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Home
+title: GENEXXO Vision Knowledge Hub
 nav_order: 1
-description: "GENEXXO's 10,000+ XX domains create the organizing layer for the Internet - digital infrastructure providing the AI framework for next-generation commerce."
-keywords: "GENEXXO, XX domains, organizing layer for the Internet, AI framework, digital infrastructure, Knowledge Hub"
+description: "Official GENEXXO Vision documentation hub. Explore how GENEXXO Vision's 10,000+ XX domains create the organizing layer for the Internet - comprehensive digital infrastructure and AI framework for next-generation commerce."
+keywords: "GENEXXO Vision, GENEXXO, XX domains, organizing layer for the Internet, AI framework, digital infrastructure, Knowledge Hub"
 permalink: /index.html
 ---
 
