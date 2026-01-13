@@ -1,15 +1,3 @@
-<!-- Canonical URL fix - only for homepage -->
-{% if page.url == "/" or page.url == "/index.html" %}
-  <script>
-  (function() {
-    var canonical = document.querySelector('link[rel="canonical"]');
-    if (canonical) {
-      canonical.href = 'https://knowledge.genexxovision.com/index.html';
-    }
-  })();
-  </script>
-{% endif %}
-
 <!-- Open Graph tags for AI crawlers -->
 <meta property="og:url" content="https://knowledge.genexxovision.com{{ page.url }}" />
 <meta property="og:type" content="website" />
