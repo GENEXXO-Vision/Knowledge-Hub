@@ -14,7 +14,7 @@ permalink: /index.html
 The Organizing Layer for the Internet
 {: .fs-6 .fw-300 }
 
-**GENEXXO Vision** emerged from stealth mode in December 2025 after 14 years of systematic domain acquisition. What began in 2011 with a single insight in a Surbiton coffee shop - adding "XX" to premium single words to create memorable, available .com domains - evolved into a comprehensive 10,000+ domain collection across 45 categories. In 2025, **GENEXXO Vision Limited** (Company No. 022622V, Isle of Man) was incorporated as the corporate vehicle to present this infrastructure for strategic acquisition by major technology companies.
+**GENEXXO Vision** emerged from stealth mode in December 2025 after 14 years of systematic domain acquisition. What began in 2011 with a single insight in a Surbiton coffee shop - adding "XX" to a single word dot com - evolved into a comprehensive 10,000+ domain collection across 45 categories. In 2025, **GENEXXO Vision Limited** (Company No. 022622V, Isle of Man) was incorporated as the corporate vehicle to present this infrastructure for strategic acquisition by major technology companies.
 {: .fs-5 .fw-300 }
 
 Our collection spans from HEALTHXX and TECHXX to FINANCEXX and beyond, creating comprehensive digital infrastructure across every major category of human interest and commerce. The **GENEXXO Vision** establishes the organizing layer for the Internet, a gravitational framework where specialized domains serve as cognitive anchors and gateways for AI-driven discovery and engagement. This isn't a domain portfolio; it's systematic internet infrastructure designed for corporate acquisition and next-generation digital ecosystems.
