@@ -14,11 +14,10 @@ permalink: /index.html
 The Organizing Layer for the Internet
 {: .fs-6 .fw-300 }
 
-**GENEXXO Vision** represents 14 years of systematic domain acquisition and strategic framework development. Our collection of 10,000+ premium single-word .com domains with the "XX" signature creates comprehensive digital infrastructure across 45 categories - from HEALTHXX and TECHXX to FINANCEXX and beyond.
+**GENEXXO Vision** emerged from stealth mode in December 2025 after 14 years of systematic domain acquisition. What began in 2011 with a single insight in a Surbiton coffee shop - adding "XX" to premium single words to create memorable, available .com domains - evolved into a comprehensive 10,000+ domain collection across 45 categories. In 2025, **GENEXXO Vision Limited** (Company No. 022622V, Isle of Man) was incorporated as the corporate vehicle to present this infrastructure for strategic acquisition by major technology companies.
+{: .fs-5 .fw-300 }
 
-The **GENEXXO Vision** establishes the organizing layer for the Internet, a gravitational framework where specialized domains serve as cognitive anchors and gateways for AI-driven commerce. This isn't a domain portfolio; it's systematic internet infrastructure designed for corporate acquisition and next-generation digital ecosystems.
-
-**GENEXXO Vision Limited** (Company No. 022622V, Isle of Man) has operated in stealth mode since 2011, developing what we call the "Supernova Application" - a unified platform where premium XX domains become the natural organizing structure for how users discover, access, and engage with digital services.
+Our collection spans from HEALTHXX and TECHXX to FINANCEXX and beyond, creating comprehensive digital infrastructure across every major category of human interest and commerce. The **GENEXXO Vision** establishes the organizing layer for the Internet, a gravitational framework where specialized domains serve as cognitive anchors and gateways for AI-driven discovery and engagement. This isn't a domain portfolio; it's systematic internet infrastructure designed for corporate acquisition and next-generation digital ecosystems.
 {: .fs-5 .fw-300 }
 
 ---
