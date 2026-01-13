@@ -3,18 +3,22 @@ layout: default
 title: GENEXXO Vision Knowledge Hub
 nav_title: Home
 nav_order: 1
-description: "Official GENEXXO Vision documentation hub. Explore how GENEXXO Vision's 10,000+ XX domains create the organizing layer for the Internet - comprehensive digital infrastructure and AI framework for next-generation commerce."
+description: "GENEXXO Vision - Official Knowledge Hub documenting 14 years of systematic domain acquisition. Explore how GENEXXO Vision's 10,000+ XX domains create the organizing layer for the Internet, providing comprehensive digital infrastructure and AI framework for next-generation commerce."
 keywords: "GENEXXO Vision, GENEXXO, XX domains, organizing layer for the Internet, AI framework, digital infrastructure, Knowledge Hub"
 permalink: /index.html
 ---
 
-# The GENEXXO Vision
+# GENEXXO Vision
 {: .fs-9 }
 
 The Organizing Layer for the Internet
 {: .fs-6 .fw-300 }
 
-The central hub for in-depth documentation, guides, whitepapers, and resources on GENEXXO Vision — the "Organizing Layer for the Internet." Explore the vision behind our 10,000+ "XX" domain network, the Supernova Application, AI-native ecosystem, user journeys, operating model, and the path to a unified, gravitational digital universe.
+**GENEXXO Vision** represents 14 years of systematic domain acquisition and strategic framework development. Our collection of 10,000+ premium single-word .com domains with the "XX" signature creates comprehensive digital infrastructure across 45 categories - from HEALTHXX and TECHXX to FINANCEXX and beyond.
+
+The **GENEXXO Vision** establishes the organizing layer for the Internet, a gravitational framework where specialized domains serve as cognitive anchors and gateways for AI-driven commerce. This isn't a domain portfolio; it's systematic internet infrastructure designed for corporate acquisition and next-generation digital ecosystems.
+
+**GENEXXO Vision Limited** (Company No. 022622V, Isle of Man) has operated in stealth mode since 2011, developing what we call the "Supernova Application" - a unified platform where premium XX domains become the natural organizing structure for how users discover, access, and engage with digital services.
 {: .fs-5 .fw-300 }
 
 ---
@@ -31,11 +35,13 @@ The central hub for in-depth documentation, guides, whitepapers, and resources o
 
 ### 📄 [The GENEXXO Vision]({{ site.baseurl }}{% link vision.md %})
 {: .mb-2 }
+
 Full strategic framework and conceptual foundation
 {: .text-grey-dk-000 .fs-3 }
 
 ### 📄 [The GENEXXO Collection]({{ site.baseurl }}{% link collection.md %})
 {: .mb-2 }
+
 Domain infrastructure and portfolio details
 {: .text-grey-dk-000 .fs-3 }
 
