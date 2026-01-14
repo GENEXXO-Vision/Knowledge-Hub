@@ -1,7 +1,7 @@
 ---
 layout: default
 title: From Chaos to Control
-nav_order: 4
+nav_order: 5
 permalink: /from-chaos-to-control/
 ---
 
