@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Press
-nav_order: 4
+nav_order: 5
 description: "Official GENEXXO Vision press releases and announcements. After 14 years in stealth mode, discover the 10,000+ domain collection and corporate acquisition opportunity."
 keywords: "GENEXXO press, press releases, announcements, stealth mode, corporate acquisition, domain collection launch"
 ---
