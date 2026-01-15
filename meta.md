@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meta
+title: Meta Platforms Inc
 parent: Acquisition Case Studies
 nav_order: 1
 description: "Strategic scenario exploring how GENEXXO's categorical infrastructure and specialized AI across 45 sectors could create opportunities for Meta in platform architecture, community building, and AI deployment."
@@ -8,7 +8,7 @@ keywords: "GENEXXO Meta, Meta acquisition scenario, specialized AI network, cate
 permalink: /acquisition-case-studies/meta.html
 ---
 
-# Meta and GENEXXO
+# Meta Platforms Inc and GENEXXO
 {: .fs-9 }
 
 A Strategic Discussion Document
@@ -32,7 +32,7 @@ GENEXXO is a Supernova Application: foundational infrastructure that organizes t
 
 There is no other reasonable way to create this organizing layer except through GENEXXO's XX collection - 10,000 premium domains systematically assembled over 14 years across 45 comprehensive sectors. This infrastructure cannot be replicated. The opportunity exists now, for one company, and then it's gone.
 
-The question isn't whether the organizing layer will be deployed - it's which major corporation positions itself to own categorical infrastructure across every major sector of digital commerce, AI, and community. Meta Platforms Inc (Meta) should be that company.
+The question isn't whether the organizing layer will be deployed - it's which major corporation positions itself to own categorical infrastructure across every major sector of digital commerce, AI, and community. Meta Platforms Inc (Meta) could be that company.
 
 This document, produced independently by GVL, proposes an acquisition of GENEXXO by Meta and lays out some of the potential implications of such a move.
 
