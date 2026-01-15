@@ -17,7 +17,7 @@ A Strategic Discussion Document
 *Produced by GENEXXO Vision Limited — January 2026*
 {: .text-grey-dk-000 .fs-4 }
 
-[Download PDF Version](#){: .btn .btn-primary .mb-4 }
+[Download PDF Version](/assets/downloads/Meta-GENEXXO.pdf){: .btn .btn-primary .mb-4 }
 {: .fs-4 }
 
 ---
@@ -201,7 +201,7 @@ Meta has Llama, global scale, huge tech resource, and billions of users. Does it
 
 ---
 
-[Download PDF Version](#){: .btn .btn-primary .mt-4 }
+[Download PDF Version](/assets/downloads/Meta-GENEXXO.pdf){: .btn .btn-primary .mt-4 }
 
 ---
 
