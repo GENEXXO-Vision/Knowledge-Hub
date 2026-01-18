@@ -1,8 +1,9 @@
 ---
 title: "The Social Industrial Revolution"
+parent: Blog
 date: 2026-01-18
 author: GENEXXO
-description: "What if breakthroughs in sustainable agriculture spread as fast as viral TikToks? What if supply-chain innovations flowed as organically as memes? The infrastructure exists for lifestyle and entertainment. Not for the industries that sustain civilization. Until now."
+description: "What if breakthroughs in sustainable agriculture spread as fast as viral TikToks?..."
 categories: [Vision, Technology, Industry]
 featured: true
 image: /assets/images/social-industrial-revolution-hero.png
