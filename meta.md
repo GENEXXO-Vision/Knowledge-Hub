@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meta Platforms Inc
-parent: Strategic Case Studies
+parent: Acquisition Case Studies
 nav_order: 1
 description: "Strategic acquisition scenario: How GENEXXO provides Meta with categorical infrastructure, specialized AI across 45 sectors, and permanent architectural advantages in digital commerce."
 keywords: "GENEXXO Meta, Meta acquisition, specialized AI network, categorical infrastructure, Meta AI strategy"
