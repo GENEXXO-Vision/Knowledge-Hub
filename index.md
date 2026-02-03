@@ -14,6 +14,13 @@ permalink: /index.html
 The Organizing Layer for the Internet
 {: .fs-6 .fw-300 }
 
+<div style="text-align: center; margin: 2rem 0;">
+  <video width="100%" style="max-width: 800px; border-radius: 8px;" autoplay loop muted playsinline>
+    <source src="/assets/videos/genexxo-intro.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 **GENEXXO Vision** emerged from stealth mode in December 2025 after 14 years of systematic domain acquisition. What began in 2011 with a single insight in a Surbiton coffee shop - adding "XX" to a single word dot com - evolved into a comprehensive 10,000+ domain collection across 45 categories. In 2025, **GENEXXO Vision Limited** (Company No. 022622V, Isle of Man) was incorporated as the corporate vehicle to present this infrastructure for strategic acquisition by major technology companies.
 {: .fs-5 .fw-300 }
 
