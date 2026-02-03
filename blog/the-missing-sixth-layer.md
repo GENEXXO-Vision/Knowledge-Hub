@@ -1,7 +1,8 @@
 ---
 layout: default
-title: The Missing Sixth Layer - What Jensen Huang's AI Stack Is Missing
-nav_exclude: true
+title: The Missing Sixth Layer
+parent: Blog
+nav_order: 1
 ---
 
 # The Missing Sixth Layer
