@@ -16,6 +16,16 @@ Insights, updates, and thought leadership on the future of digital commerce
 
 ## Latest Posts
 
+### [The Missing Sixth Layer: What Jensen Huang's AI Stack Is Missing]({{ site.baseurl }}{% link blog/the-missing-sixth-layer.md %})
+
+February 3, 2026 · AI, Infrastructure, Vision
+
+At Davos in January 2026, NVIDIA CEO Jensen Huang described AI as a five-layer industrial platform. But between applications and economic benefit sits something his framework doesn't address: the organizing layer. GENEXXO has spent 14 years assembling the infrastructure for how the internet will need to organize itself in the age of infinite AI generation.
+
+[Read the full article →]({{ site.baseurl }}{% link blog/the-missing-sixth-layer.md %}){: .btn .btn-primary .mb-4 }
+
+---
+
 ### [The Social Industrial Revolution]({{ site.baseurl }}{% link blog/social-industrial-revolution.md %})
 **January 18, 2026** · *Vision, Technology, Industry*
 
