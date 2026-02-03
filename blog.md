@@ -16,6 +16,16 @@ Insights, updates, and thought leadership on the future of digital commerce
 
 ## Latest Posts
 
+### [Healthcare's Missing Infrastructure: The Foundation Where Domain-Native AI Can Actually Happen]({{ site.baseurl }}{% link blog/healthcare-infrastructure.md %})
+
+February 3, 2026 · Healthcare, AI, Infrastructure
+
+Rajan Kohli's Forbes article identifies why generic AI fails in healthcare—but where does the domain-native infrastructure he calls for actually live? GENEXXO has spent 14 years assembling 1,000+ premium healthcare domains as the organized foundation where clinical literacy, governance, and stakeholder trust can finally be built in from day one.
+
+[Read the full article →]({{ site.baseurl }}{% link blog/healthcare-infrastructure.md %}){: .btn .btn-primary .mb-4 }
+
+---
+
 ### [Zero to One: How Peter Thiel's Monopoly Blueprint Illuminates the GENEXXO Vision]({{ site.baseurl }}{% link blog/zero-to-one.md %})
 
 February 3, 2026 · Strategy, Vision, AI
