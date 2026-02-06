@@ -69,7 +69,7 @@ Until now.
 
 Over the past 14 years, working in complete stealth, a team from the UK has been building exactly this foundation.
 
-GENEXXO Vision has systematically assembled over 10,000 premium single-word .com domains across 45 categories. Not hundreds—thousands. HEALTH. HOTEL. TRAVEL. MEDIA. ENTERTAINMENT. FINANCE. INDUSTRY. CAREER. RESTAURANT. DESIGN. WELLNESS. TECHNOLOGY. MUSIC. FASHION. PROPERTY. EDUCATION. CULTURE. SPORTS. Category after category, vertical after vertical.
+GENEXXO Vision has systematically assembled over 10,000 premium single-word .com domains across 45 categories. Not hundreds—thousands. HEALTH. HOTEL. TRAVEL. MEDIA. ENTERTAINMENT. FINANCE. INDUSTRY. CAREER. RESTAURANT. DESIGN. WELLNESS. TECH. MUSIC. FASHION. PROPERTY. EDUCATION. CULTURE. SPORTS. Category after category, vertical after vertical.
 
 This isn't domain speculation or opportunistic acquisition. This is patient infrastructure development—identifying the premium single-word domains that represent natural homes for specialized experiences, securing them one by one, building comprehensive coverage across the breadth of the digital economy.
 
@@ -107,7 +107,7 @@ This is what makes the architecture genuinely multi-dimensional. Not multiple fe
 
 ### One Constellation, Infinite Pathways
 
-Once someone enters through any gateway, they're inside the constellation. They can move freely across the interconnected network—discovering adjacent domains, complementary categories, new experiences. The yoga instructor discovers WELLNESSXX, then RETREATXX, then TRAVELXX. The hotel owner finds RESTAURANTXX, then EVENTXX, then ENTERTAINMENTXX. Natural, intuitive movement through connected domains. One profile, one wallet, one authentication—flowing seamlessly across every gateway without ever leaving the application.
+Once someone enters through any gateway, they're inside the constellation. They can move freely across the interconnected network—discovering adjacent domains, complementary categories, new experiences. The yoga instructor discovers WELLNESSXX, then RETREATXX, then TRAVELXX. The hotel owner finds RESTAURANTXX, then EVENTSXX, then ENTERTAINMENTXX. Natural, intuitive movement through connected domains. One profile, one wallet, one authentication—flowing seamlessly across every gateway without ever leaving the application.
 
 ### The Hub: Your Personal Nexus
 
@@ -157,7 +157,7 @@ Within the constellation, each XX domain provides the focused soil where special
 
 But here's what makes the model fundamentally different: nothing stays in one place.
 
-As people move naturally through the constellation—from community to community, gateway to gateway—they carry ideas with them. A wellness AI tool that takes root in HEALTHXX cross-pollinates into YOGAXX, then FITNESSXX, then RETREATXX. A creative format born in MUSICXX spreads to ENTERTAINMENTXX, then CULTUREXX, then EVENTXX. A commerce innovation pioneered in FASHIONXX propagates to DESIGNXX, then BEAUTYXX, then LIFESTYLEXX.
+As people move naturally through the constellation—from community to community, gateway to gateway—they carry ideas with them. A wellness AI tool that takes root in HEALTHXX cross-pollinates into YOGAXX, then FITNESSXX, then RETREATXX. A creative format born in MUSICXX spreads to ENTERTAINMENTXX, then CULTUREXX, then EVENTSXX. A commerce innovation pioneered in FASHIONXX propagates to DESIGNXX, then BEAUTYXX, then LIFESTYLEXX.
 
 This is cross-pollination at scale—the natural consequence of an interconnected ecosystem where people, ideas, and innovations flow freely between dedicated spaces. Each domain provides the focus for something new to sprout. The constellation provides the pathways for it to spread. The Hub ensures the best innovations surface wherever they're relevant.
 
