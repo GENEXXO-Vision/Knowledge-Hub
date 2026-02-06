@@ -16,6 +16,16 @@ Insights, updates, and thought leadership on the future of digital commerce
 
 ## Latest Posts
 
+### [A NEW INTERNET MODEL That Could Change Everything]({{ site.baseurl }}{% link blog/new-internet-model.md %})
+
+February 6, 2026 · Vision, Strategy, AI
+
+For 30 years, the digital economy has operated with just two playbooks: scale wide or go deep. Horizontal platforms offered convenience but sacrificed depth. Vertical specialists delivered quality but remained isolated. The 30-Year Paradox seemed unsolvable—until now. GENEXXO has spent 14 years assembling the infrastructure for a third way: networking 10,000+ specialized verticals into one coherent horizontal ecosystem.
+
+[Read the full article →]({{ site.baseurl }}{% link blog/new-internet-model.md %}){: .btn .btn-primary .mb-4 }
+
+---
+
 ### [Healthcare's Missing Infrastructure: The Foundation Where Domain-Native AI Can Actually Happen]({{ site.baseurl }}{% link blog/healthcare-infrastructure.md %})
 
 February 3, 2026 · Healthcare, AI, Infrastructure
